@@ -1327,6 +1327,7 @@ Stephan Sharpe
 - [Anurag Singh](https://github.com/softhax)
 - [umng09](https://github.com/baibhavtripathi/)
 - [Tonia Gonzalez](https://github.com/toniagonzalez)
+
 - [Ritesh Chauhan](https://github.com/chauhanr)
 - [Mitchell Chan](https://github.com/michan94)
 - [Subram Panaiyadiyan](https://github.com/psubrambe)
@@ -1549,6 +1550,7 @@ Stephan Sharpe
 - [Verduor](https://github.com/verduor)
 - [UnicodeRogue](https://github.com/UnicodeRogue)
 - Daniel Jung
+- [Sam Harratt](https://github.com/samharratt)
 - [Sebastiaan van den Berg](https://github.com/Primaat)
 - [Vignesh Nandhini Velu](https://github.com/vigneshvelu)
 - [Jtian](https://github.com/JhonsonTian)
